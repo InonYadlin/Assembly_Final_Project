@@ -12,9 +12,9 @@ Technology Stack
   Assembly Language: The game is written in assembly, using low-level programming to handle graphics, input, and game logic.
   
 Controls
-  Left Arrow: Move the spaceship left.
-  Right Arrow: Move the spaceship right.
-  Spacebar: Shoot a bullet to destroy aliens.
+  1. Left Arrow: Move the spaceship left.
+  2. Right Arrow: Move the spaceship right.
+  3. Spacebar: Shoot a bullet to destroy aliens.
 
 Future Improvements
   1. Add sound effects and music.
